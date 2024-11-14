@@ -576,6 +576,7 @@
             transform: rotate(360deg);
   }
 }
+
 /*----------------------------------------*/
 /*  05. THEME CSS START
 /*----------------------------------------*/
@@ -1238,6 +1239,7 @@ img {
   color: var(--white);
   border-color: var(--white);
 }
+
 .dark .portfolio__hero .title {
   color: var(--white);
 }
